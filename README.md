@@ -1,4 +1,4 @@
-# Pulse Rate Monitor
+# Pulse Rate Monitor  💖💻🥺👨‍⚕️
 
 #### In this project, i have  created Heartbeat or Pulse or BPM Rate Monitor using Arduino & Pulse Sensor. You can interface the pulse sensor with Arduino for monitoring Heartbeat/Pulse/BPM Rate.
  
